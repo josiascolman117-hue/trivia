@@ -1,1 +1,6 @@
-print('hola')
+print('Bienvenido al Custionario Sobre Minicraft')
+nombre_del_jugador = input("ingrese su nombre")
+madera = input('como se puede hacer palitos de madera')
+pico = input('como se hace el pico de madera')
+espada = input('como se hace una espadade madera en minecraft')
+hacha = input('como se hace una hacha de madera')
